@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://trobar-test.sites.stanford.edu"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Performing Trobar - chanson</title>
+ <link>https://trobar-test.sites.stanford.edu/genre/chanson</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Quant Flors (recited)</title>
+ <link>https://trobar-test.sites.stanford.edu/quant-flors-recited</link>
+ <description>&lt;div class=&quot;field field-name-field-audio field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audio:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;jwplayer-video&quot;&gt;
+  &lt;video id=&quot;34039c49b53685d7b496c84aa530fe8f&quot; width=&quot;100&quot; height=&quot;50&quot; controls=&quot;controls&quot; preload=&quot;none&quot; poster=&quot;&quot;&gt;
+  &lt;source src=&quot;https://trobar-test.sites.stanford.edu/sites/g/files/sbiybj11891/f/songs/13_quant_flors_et_glais_et_verdue_recited_.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;  Your browser does not support this video type.
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-performer field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Performer:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mount Holyoke College&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Genre:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/genre/chanson&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;chanson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-author field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Author:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Gace Brulé&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 02 Aug 2021 17:39:24 +0000</pubDate>
+ <dc:creator>Quinn Dombrowski</dc:creator>
+ <guid isPermaLink="false">1471 at https://trobar-test.sites.stanford.edu</guid>
+ <comments>https://trobar-test.sites.stanford.edu/quant-flors-recited#comments</comments>
+</item>
+<item>
+ <title>Ausi Comne Unicorne (recited)</title>
+ <link>https://trobar-test.sites.stanford.edu/ausi-comne-unicorne-recited</link>
+ <description>&lt;div class=&quot;field field-name-field-audio field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audio:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;jwplayer-video&quot;&gt;
+  &lt;video id=&quot;51ba446132444c06062768087ad65bb9&quot; width=&quot;100&quot; height=&quot;50&quot; controls=&quot;controls&quot; preload=&quot;none&quot; poster=&quot;&quot;&gt;
+  &lt;source src=&quot;https://trobar-test.sites.stanford.edu/sites/g/files/sbiybj11891/f/songs/14_ausi_conme_unicorne_sui_recited.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;  Your browser does not support this video type.
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-performer field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Performer:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mount Holyoke College&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Genre:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/genre/chanson&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;chanson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-author field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Author:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thibaut de Champagne&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 02 Aug 2021 17:32:20 +0000</pubDate>
+ <dc:creator>Quinn Dombrowski</dc:creator>
+ <guid isPermaLink="false">1466 at https://trobar-test.sites.stanford.edu</guid>
+ <comments>https://trobar-test.sites.stanford.edu/ausi-comne-unicorne-recited#comments</comments>
+</item>
+<item>
+ <title>Chançon Ferai</title>
+ <link>https://trobar-test.sites.stanford.edu/chan-ferai</link>
+ <description>&lt;div class=&quot;field field-name-field-audio field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audio:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;jwplayer-video&quot;&gt;
+  &lt;video id=&quot;cd027761673a12fa104a39da246edbf5&quot; width=&quot;100&quot; height=&quot;50&quot; controls=&quot;controls&quot; preload=&quot;none&quot; poster=&quot;&quot;&gt;
+  &lt;source src=&quot;https://trobar-test.sites.stanford.edu/sites/g/files/sbiybj11891/f/songs/04_chancon_ferai_que_talenz_men_es_pris.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;  Your browser does not support this video type.
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-performer field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Performer:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mt Holyoke&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Genre:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/genre/chanson&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;chanson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/coblas-doblas&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;coblas doblas&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-author field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Author:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thibaut de Champagne&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 02 Aug 2021 16:16:20 +0000</pubDate>
+ <dc:creator>Quinn Dombrowski</dc:creator>
+ <guid isPermaLink="false">1436 at https://trobar-test.sites.stanford.edu</guid>
+ <comments>https://trobar-test.sites.stanford.edu/chan-ferai#comments</comments>
+</item>
+<item>
+ <title>Retrowange novelle</title>
+ <link>https://trobar-test.sites.stanford.edu/retrowange-novelle</link>
+ <description>&lt;div class=&quot;field field-name-field-audio field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audio:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;jwplayer-video&quot;&gt;
+  &lt;video id=&quot;0db5cf74463510818502f601190087f9&quot; width=&quot;100&quot; height=&quot;50&quot; controls=&quot;controls&quot; preload=&quot;none&quot; poster=&quot;&quot;&gt;
+  &lt;source src=&quot;https://trobar-test.sites.stanford.edu/sites/g/files/sbiybj11891/f/songs/09_de_cambrai_retrowange_novelle.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;  Your browser does not support this video type.
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-performer field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Performer:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thomas E. Binkley&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Genre:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/genre/chanson&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;chanson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/piety&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;piety&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-author field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Author:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jacques de Cambrai&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 23 Jul 2019 12:16:53 +0000</pubDate>
+ <dc:creator>Quinn Dombrowski</dc:creator>
+ <guid isPermaLink="false">1196 at https://trobar-test.sites.stanford.edu</guid>
+ <comments>https://trobar-test.sites.stanford.edu/retrowange-novelle#comments</comments>
+</item>
+<item>
+ <title>Quant Flors</title>
+ <link>https://trobar-test.sites.stanford.edu/quant-flors</link>
+ <description>&lt;div class=&quot;field field-name-field-audio field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audio:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;jwplayer-video&quot;&gt;
+  &lt;video id=&quot;b899afbd22b5d3585bbf04e641efcf28&quot; width=&quot;100&quot; height=&quot;50&quot; controls=&quot;controls&quot; preload=&quot;none&quot; poster=&quot;&quot;&gt;
+  &lt;source src=&quot;https://trobar-test.sites.stanford.edu/sites/g/files/sbiybj11891/f/songs/02_quant_flors_et_glais_et_verdure.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;  Your browser does not support this video type.
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-performer field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Performer:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mount Holyoke College&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Genre:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/genre/chanson&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;chanson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-author field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Author:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Gace Brulé&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 23 Jul 2019 12:12:46 +0000</pubDate>
+ <dc:creator>Quinn Dombrowski</dc:creator>
+ <guid isPermaLink="false">896 at https://trobar-test.sites.stanford.edu</guid>
+ <comments>https://trobar-test.sites.stanford.edu/quant-flors#comments</comments>
+</item>
+<item>
+ <title>Ausi Comne Unicorne</title>
+ <link>https://trobar-test.sites.stanford.edu/ausi-comne-unicorne</link>
+ <description>&lt;div class=&quot;field field-name-field-audio field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audio:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;jwplayer-video&quot;&gt;
+  &lt;video id=&quot;1f7fb529c804e7e4b6f444be2d446ccc&quot; width=&quot;100&quot; height=&quot;50&quot; controls=&quot;controls&quot; preload=&quot;none&quot; poster=&quot;&quot;&gt;
+  &lt;source src=&quot;https://trobar-test.sites.stanford.edu/sites/g/files/sbiybj11891/f/songs/03_ausi_comme_unicorne_sui.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;  Your browser does not support this video type.
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-performer field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Performer:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mount Holyoke College&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Genre:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/genre/chanson&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;chanson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-author field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Author:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thibaut de Champagne&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 23 Jul 2019 12:12:46 +0000</pubDate>
+ <dc:creator>Quinn Dombrowski</dc:creator>
+ <guid isPermaLink="false">901 at https://trobar-test.sites.stanford.edu</guid>
+ <comments>https://trobar-test.sites.stanford.edu/ausi-comne-unicorne#comments</comments>
+</item>
+<item>
+ <title>Chançon Ferai (recited)</title>
+ <link>https://trobar-test.sites.stanford.edu/chan-ferai-recited</link>
+ <description>&lt;div class=&quot;field field-name-field-audio field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audio:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;jwplayer-video&quot;&gt;
+  &lt;video id=&quot;f33bb1335188a47074fec5ba5c72ffe4&quot; width=&quot;100&quot; height=&quot;50&quot; controls=&quot;controls&quot; preload=&quot;none&quot; poster=&quot;&quot;&gt;
+  &lt;source src=&quot;https://trobar-test.sites.stanford.edu/sites/g/files/sbiybj11891/f/songs/15_chancon_ferai_recited.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;  Your browser does not support this video type.
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-performer field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Performer:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mount Holyoke College&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Genre:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/genre/chanson&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;chanson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/coblas-doblas&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;coblas doblas&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-author field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Author:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thibaut de Champagne&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 23 Jul 2019 12:12:46 +0000</pubDate>
+ <dc:creator>Quinn Dombrowski</dc:creator>
+ <guid isPermaLink="false">906 at https://trobar-test.sites.stanford.edu</guid>
+ <comments>https://trobar-test.sites.stanford.edu/chan-ferai-recited#comments</comments>
+</item>
+</channel>
+</rss>

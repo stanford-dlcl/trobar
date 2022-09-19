@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://trobar-test.sites.stanford.edu"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Performing Trobar - website</title>
+ <link>https://trobar-test.sites.stanford.edu/tags/website</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Interactive Pastorela</title>
+ <link>https://trobar-test.sites.stanford.edu/interactive-pastorela</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;I made this website as a final project for FrenGen 204: Songs and Love of War, taught by Professor Marisa Galvez. The goal of the site is to bridge the gap between chansonnier and performance by taking a manuscript - a static object - and making it interactive. I chose Marcabru&#039;s pastorela, L&#039;autrier jost&#039;una sebissa as the song for this project for several reasons:&lt;/p&gt;
+&lt;p&gt;(1) I am personally interested by the song, especially in its possible expression of feminism, and in comparison to the tensos which include trobairitz,&lt;/p&gt;
+&lt;p&gt;(2) The multiple voices in the song create an interesting performance problem, and&lt;/p&gt;
+&lt;p&gt;(3) one chansonnier, Manuscript R, contains musical notation for the song, making even more obvious the need to bring together manuscript and performance.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://stanford.edu/group/troubadours/projects/mpaymer/&quot;&gt;[OFF-SITE PROJECT HERE]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Choose a performance of Marcabru&#039;s pastorela by clicking on one of the thumbnails below. Then, click on a part of the manuscript.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-course field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Course:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Songs of Love and War: Gender, Crusade, Politics (Winter 2014)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/website&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;website&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/manuscript&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;manuscript&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project type:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/project-type/digital-humanities&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;digital humanities&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 07 Jan 2014 08:00:00 +0000</pubDate>
+ <dc:creator>Madeline Paymer</dc:creator>
+ <guid isPermaLink="false">441 at https://trobar-test.sites.stanford.edu</guid>
+ <comments>https://trobar-test.sites.stanford.edu/interactive-pastorela#comments</comments>
+</item>
+</channel>
+</rss>

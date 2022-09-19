@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://trobar-test.sites.stanford.edu"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Performing Trobar - jeu-parti</title>
+ <link>https://trobar-test.sites.stanford.edu/genre/jeu-parti</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Sire Loëz-Moi (recited)</title>
+ <link>https://trobar-test.sites.stanford.edu/sire-lo-z-moi-recited</link>
+ <description>&lt;div class=&quot;field field-name-field-audio field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audio:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;jwplayer-video&quot;&gt;
+  &lt;video id=&quot;79b0537e1735bb907473f929d7375257&quot; width=&quot;100&quot; height=&quot;50&quot; controls=&quot;controls&quot; preload=&quot;none&quot; poster=&quot;&quot;&gt;
+  &lt;source src=&quot;https://trobar-test.sites.stanford.edu/sites/g/files/sbiybj11891/f/songs/16_sire_loez-moi_a_choisir_recited.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;  Your browser does not support this video type.
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-performer field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Performer:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mount Holyoke College&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Genre:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/genre/jeu-parti&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;jeu-parti&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-author field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Author:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thibaut de Champagne&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 02 Aug 2021 17:10:32 +0000</pubDate>
+ <dc:creator>Quinn Dombrowski</dc:creator>
+ <guid isPermaLink="false">1456 at https://trobar-test.sites.stanford.edu</guid>
+ <comments>https://trobar-test.sites.stanford.edu/sire-lo-z-moi-recited#comments</comments>
+</item>
+<item>
+ <title>Sire Loëz-Moi</title>
+ <link>https://trobar-test.sites.stanford.edu/sire-lo-z-moi</link>
+ <description>&lt;div class=&quot;field field-name-field-audio field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audio:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;jwplayer-video&quot;&gt;
+  &lt;video id=&quot;e911a21d0e7cc47ee8d7110f392b96b2&quot; width=&quot;100&quot; height=&quot;50&quot; controls=&quot;controls&quot; preload=&quot;none&quot; poster=&quot;&quot;&gt;
+  &lt;source src=&quot;https://trobar-test.sites.stanford.edu/sites/g/files/sbiybj11891/f/songs/05_sire_loez-moi_a_choisir.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;  Your browser does not support this video type.
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-performer field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Performer:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mount Holyoke College&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Genre:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/genre/jeu-parti&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;jeu-parti&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-author field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Author:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thibaut de Champagne&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 23 Jul 2019 12:12:46 +0000</pubDate>
+ <dc:creator>Quinn Dombrowski</dc:creator>
+ <guid isPermaLink="false">881 at https://trobar-test.sites.stanford.edu</guid>
+ <comments>https://trobar-test.sites.stanford.edu/sire-lo-z-moi#comments</comments>
+</item>
+</channel>
+</rss>
